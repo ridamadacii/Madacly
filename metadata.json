@@ -1,0 +1,5 @@
+{
+  "name": "Madacly - Free Image & Video Compressor",
+  "description": "A professional website that provides free online image and video compression. Users can upload images and videos to compress them directly in the browser without uploading to a server, ensuring privacy and fast performance.",
+  "requestFramePermissions": []
+}
